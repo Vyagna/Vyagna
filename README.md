@@ -7,7 +7,7 @@
 
 - I'm skilled in **C++ ,Power BI, SQL ,Python & Machine learning**
 
-- I'm currently learning **the art of making data reveal its secrets**
+- I'm currently working on **mastering several skills across various domains**
 
 - **Biotechnology graduate from NITJ'24**
 
