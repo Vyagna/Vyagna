@@ -1,7 +1,8 @@
-![Black Liquid Minimalist Daily Quotes LinkedIn black](https://github.com/user-attachments/assets/71550a8b-3145-4b9f-9c52-fd2cd750e296)
+![BANNER](https://github.com/user-attachments/assets/7434c9ab-a05e-4476-951b-16212683bbaa)
+
 
 <h1 align="center">Hi 👋, I'm Vyagna Sree Chinthapally</h1>
-<h3 align="center">Passionate about decoding data</h3>
+<h3 align="center">Passionate about decoding data |  leveraging machine learning </h3>
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Vyagna.Vyagna&left_color=gray&right_color=lightblue&left_text=profile%20views"  /> </p>
 
@@ -10,6 +11,8 @@
 - I'm currently working on **mastering several skills across various domains**
 
 - **Biotechnology graduate from NITJ'24**
+
+- fun fact' **Data scientists: the only people who can predict your health outcomes better than your doctor—just don’t ask them for a second opinion!**
 
 
 ## Connect with me:
