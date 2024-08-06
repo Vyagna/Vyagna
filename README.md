@@ -1,7 +1,7 @@
 ![Black Liquid Minimalist Daily Quotes LinkedIn black](https://github.com/user-attachments/assets/71550a8b-3145-4b9f-9c52-fd2cd750e296)
 
 <h1 align="center">Hi 👋, I'm Vyagna Sree Chinthapally</h1>
-<h2 align="center">Passionate about decoding data</h2>
+<h3 align="center">Passionate about decoding data</h3>
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Vyagna.Vyagna&left_color=gray&right_color=lightblue&left_text=profile%20views"  /> </p>
 
