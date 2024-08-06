@@ -1,3 +1,5 @@
+
+![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/user-attachments/assets/3bbf76de-4a59-4307-8127-0e4ca57c4b2d)
 <h1 align="center">Hi 👋, I'm Vyagna Sree Chinthapally</h1>
 <h3 align="center">Passionate about decoding data</h3>
 
@@ -12,3 +14,4 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vyagna-sree-chinthapally-aa3a88203) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:vyagnasree.ch@gmail.com) 
+
