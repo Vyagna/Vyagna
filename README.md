@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vyagna Sree Chinthapally</h1>
 <h3 align="center">Passionate about decoding data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinathankolla&label=Profile%20views&color=0e75b6&style=flat" alt="Vyagna" /> </p>
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Vyagna.Vyagna&left_color=gray&right_color=lightblue&left_text=profile%20views"  /> </p>
 
 - I'm skilled in **C++ ,Power BI, SQL ,Python & Machine learning**
 
