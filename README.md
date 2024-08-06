@@ -7,7 +7,7 @@
 
 - I'm currently learning the art of making data reveal its secrets
 
-- Fun fact **Biotechnology graduate from NITJ'24**
+- **Biotechnology graduate from NITJ'24**
 
 
 ## Connect with me:
