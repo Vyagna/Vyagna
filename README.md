@@ -10,7 +10,7 @@
 
 - I'm currently working on **mastering several skills across various domains**
 
-- **Biotechnology graduate from NITJ'24**
+- **Graduate from NITJ'24**
 
 - fun fact' ***Data scientists: the only people who can predict your health outcomes better than your doctor—just don’t ask them for a second opinion!***
 
